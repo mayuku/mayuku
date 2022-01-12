@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mayuku/static/css/main.c3eaab6a.css",
+    "main.js": "/mayuku/static/js/main.8c16f450.js",
+    "static/js/787.7391c4b8.chunk.js": "/mayuku/static/js/787.7391c4b8.chunk.js",
+    "index.html": "/mayuku/index.html",
+    "main.c3eaab6a.css.map": "/mayuku/static/css/main.c3eaab6a.css.map",
+    "main.8c16f450.js.map": "/mayuku/static/js/main.8c16f450.js.map",
+    "787.7391c4b8.chunk.js.map": "/mayuku/static/js/787.7391c4b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3eaab6a.css",
+    "static/js/main.8c16f450.js"
+  ]
+}
